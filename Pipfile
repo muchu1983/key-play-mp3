@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 keyboard = "*"
 playsound = "*"
+pip = "*"
+pylint = "*"
 
 [dev-packages]
 
